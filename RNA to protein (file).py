@@ -1,4 +1,5 @@
 # RNA to Protein
+# Remember to change user_name to your computer's username or chech the properties of the file you analysing
 
 file_name = r"C:\Users\user_name\Desktop\RNA_test_sequence.txt"
 
