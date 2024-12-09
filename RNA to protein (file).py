@@ -1,6 +1,6 @@
 # RNA to Protein
 
-file_name = r"C:\Users\scien\Desktop\RNA_test_sequence.txt"
+file_name = r"C:\Users\user_name\Desktop\RNA_test_sequence.txt"
 
 def read_file(file_name):
     with open(file_name, 'r') as file:
